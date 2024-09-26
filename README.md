@@ -1,5 +1,5 @@
-![alt text](![Cuplikan layar 2024-09-27 060016](https://github.com/user-attachments/assets/9e2819ad-adb8-46c2-a67f-be485efdcda4)
-?raw=true)
+(![Cuplikan layar 2024-09-27 060016](https://github.com/user-attachments/assets/9e2819ad-adb8-46c2-a67f-be485efdcda4)
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
